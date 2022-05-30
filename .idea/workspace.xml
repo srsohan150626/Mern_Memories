@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85cc7d69-11a9-4a18-8a9c-db3c54920c5a" name="Changes" comment="" />
+    <list default="true" id="85cc7d69-11a9-4a18-8a9c-db3c54920c5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/actions/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Form/Form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Form/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Posts/Post/Post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Posts/Post/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Posts/Posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Posts/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/reducers/posts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/controllers/postsController.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/postsController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +68,10 @@
       <option name="presentableId" value="Default" />
       <updated>1653370722544</updated>
       <workItem from="1653370723761" duration="3714000" />
-      <workItem from="1653386102695" duration="4158000" />
+      <workItem from="1653386102695" duration="4578000" />
+      <workItem from="1653392118781" duration="4000" />
+      <workItem from="1653545538045" duration="13000" />
+      <workItem from="1653887043397" duration="8691000" />
     </task>
     <servers />
   </component>
