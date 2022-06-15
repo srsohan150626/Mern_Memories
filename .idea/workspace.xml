@@ -2,22 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85cc7d69-11a9-4a18-8a9c-db3c54920c5a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/client/src/constants/actionTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Auth/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Auth/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Navbar/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/Navbar/styles.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/actions/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/actions/posts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/api/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Form/Form.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Form/Form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/components/Posts/Post/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/Posts/Post/Post.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/reducers/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/reducers/posts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/controllers/postsController.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/controllers/postsController.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/routes/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/routes/posts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +73,9 @@
       <workItem from="1654489484801" duration="14720000" />
       <workItem from="1654589837252" duration="5823000" />
       <workItem from="1654751359082" duration="10985000" />
-      <workItem from="1655094146520" duration="6733000" />
+      <workItem from="1655094146520" duration="14923000" />
+      <workItem from="1655189790433" duration="9104000" />
+      <workItem from="1655271500322" duration="5978000" />
     </task>
     <servers />
   </component>
